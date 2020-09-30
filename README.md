@@ -1,6 +1,6 @@
 # darkweb
 
-This used to be the repository holding the DarkScience website, that has been
+This used to be the repository holding the DarkScience Website, that has been
 moved to https://git.drk.sc/darkscience/darkscience.net.
 
 At the moment this repository contains a Django application which powers the
